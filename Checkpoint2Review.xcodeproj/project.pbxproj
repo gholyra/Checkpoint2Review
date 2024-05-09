@@ -13,7 +13,7 @@
 		ACE160492BEC3C3F00BC414E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = ACE160472BEC3C3F00BC414E /* Main.storyboard */; };
 		ACE1604B2BEC3C4800BC414E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = ACE1604A2BEC3C4800BC414E /* Assets.xcassets */; };
 		ACE1604E2BEC3C4800BC414E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = ACE1604C2BEC3C4800BC414E /* LaunchScreen.storyboard */; };
-		ACE160582BEC3FD600BC414E /* Calculation.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACE160572BEC3FD600BC414E /* Calculation.swift */; };
+		ACE1605A2BEC405200BC414E /* Calculation.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACE160592BEC405200BC414E /* Calculation.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,7 +25,7 @@
 		ACE1604A2BEC3C4800BC414E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		ACE1604D2BEC3C4800BC414E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		ACE1604F2BEC3C4900BC414E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		ACE160572BEC3FD600BC414E /* Calculation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Calculation.swift; sourceTree = "<group>"; };
+		ACE160592BEC405200BC414E /* Calculation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Calculation.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -65,7 +65,7 @@
 				ACE1604A2BEC3C4800BC414E /* Assets.xcassets */,
 				ACE1604C2BEC3C4800BC414E /* LaunchScreen.storyboard */,
 				ACE1604F2BEC3C4900BC414E /* Info.plist */,
-				ACE160572BEC3FD600BC414E /* Calculation.swift */,
+				ACE160592BEC405200BC414E /* Calculation.swift */,
 			);
 			path = Checkpoint2Review;
 			sourceTree = "<group>";
@@ -144,7 +144,7 @@
 				ACE160462BEC3C3F00BC414E /* ViewController.swift in Sources */,
 				ACE160422BEC3C3F00BC414E /* AppDelegate.swift in Sources */,
 				ACE160442BEC3C3F00BC414E /* SceneDelegate.swift in Sources */,
-				ACE160582BEC3FD600BC414E /* Calculation.swift in Sources */,
+				ACE1605A2BEC405200BC414E /* Calculation.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
